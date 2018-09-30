@@ -1,1 +1,1 @@
-# Ethereum Dapp Escrow App
+# Ethereum Escrow Dapp
